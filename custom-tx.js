@@ -34,7 +34,6 @@ const VBYTES_PER_INPUT = 57.5
 const VBYTES_PER_OUTPUT = 43
 
 
-
 const data = fs.readFileSync(file, 'utf8')
 
 const [_, info] = data.trim().split('inputs')
@@ -74,7 +73,7 @@ inputs.forEach(i => {
     tx.addInput(revBuf(i.utxo.split(':')[0]), parseInt(i.utxo.split(':')[1]), 0xfffffffd)
 })
 outputs.forEach(o => {
-    tx.addOutput(bitcoin.address.toOutputScript(o.address), parseInt(parseFloat(o.amount) * 1e8))
+    tx.addOutput(bitcoin.address.toOutputScript(o.address), BigInt(parseInt(parseFloat(o.amount) * 1e8)))
 })
 console.log(tx.toHex())
 
