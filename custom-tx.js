@@ -89,7 +89,7 @@ inputs.forEach(i => {
 outputs.forEach((o, idx) => {
     psbt.addOutput({
         address: o.address,
-        value: parseInt(Math.round(parseFloat(o.amount) * 1e8))
+        value: BigInt(parseInt(Math.round(parseFloat(o.amount) * 1e8)))
     })
 })
 console.log(psbt.toBase64())
