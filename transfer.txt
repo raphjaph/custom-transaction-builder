@@ -1,0 +1,141 @@
+{
+  inputs: [
+    {
+      utxo: 'ad477fead70ca09759093dbf6adf98f530312d16d6e47cc5d4c47567e8eb2606:202',
+      amount: '0.00001092'
+    },
+    {
+      utxo: 'f6a2f680601dbdd38dac669413875df0b34440e0cf5abd92d3ad2dd53b553bae:241',
+      amount: '0.00001092'
+    },
+    {
+      utxo: '3ab1d99e02bb2be17a91c60bbfe7ae3c9344d84e0a2550e10309014d17f86cd0:1475',
+      amount: '0.00001092'
+    },
+    {
+      utxo: 'fb4c77741312242fb3317782ddb0bfde6233989795e1d1f208ba57eb74134047:123',
+      amount: '0.00001092'
+    },
+    {
+      utxo: '3ab1d99e02bb2be17a91c60bbfe7ae3c9344d84e0a2550e10309014d17f86cd0:628',
+      amount: '0.00000586'
+    },
+    {
+      utxo: '31c65d7e876950936da237dcd6a883c5c544ae61368bfe24a23f19f3637abc62:1245',
+      amount: '0.00001092'
+    },
+    {
+      utxo: '3ab1d99e02bb2be17a91c60bbfe7ae3c9344d84e0a2550e10309014d17f86cd0:350',
+      amount: '0.00001092'
+    },
+    {
+      utxo: 'f6a2f680601dbdd38dac669413875df0b34440e0cf5abd92d3ad2dd53b553bae:1037',
+      amount: '0.00001092'
+    },
+    {
+      utxo: '35ad1d89cacc23914dfbae29d19c2c06992bde5a8bb70423091a0710043362f5:274',
+      amount: '0.00001092'
+    },
+    {
+      utxo: '31c65d7e876950936da237dcd6a883c5c544ae61368bfe24a23f19f3637abc62:694',
+      amount: '0.00001092'
+    },
+    {
+      utxo: 'bbb025ec467639472c0ce52d86f0cb839b23cc22593c80c064e849b4a5bd2d0e:15',
+      amount: '0.00001092'
+    },
+    {
+      utxo: 'd10a850443990eec359e8cbf92fe30c60f2689e4a37c7f602ea85d7b159c3577:179',
+      amount: '0.00001092'
+    },
+    {
+      utxo: 'f6a2f680601dbdd38dac669413875df0b34440e0cf5abd92d3ad2dd53b553bae:559',
+      amount: '0.00001092'
+    },
+    {
+      utxo: 'bbb025ec467639472c0ce52d86f0cb839b23cc22593c80c064e849b4a5bd2d0e:101',
+      amount: '0.00001092'
+    },
+    {
+      utxo: 'fb4c77741312242fb3317782ddb0bfde6233989795e1d1f208ba57eb74134047:135',
+      amount: '0.00001092'
+    },
+    {
+      utxo: '3ab1d99e02bb2be17a91c60bbfe7ae3c9344d84e0a2550e10309014d17f86cd0:1145',
+      amount: '0.00001092'
+    },
+    {
+      utxo: '366ffbc92710ca2b9bacb061c4c64e6a286128703e81d1da79eea8a6af66f5a7:0',
+      amount: '0.01'
+    }
+  ],
+  outputs: [
+    {
+      address: 'bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs',
+      amount: '0.00001092'
+    },
+    {
+      address: 'bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs',
+      amount: '0.00001092'
+    },
+    {
+      address: 'bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs',
+      amount: '0.00001092'
+    },
+    {
+      address: 'bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs',
+      amount: '0.00001092'
+    },
+    {
+      address: 'bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs',
+      amount: '0.00000586'
+    },
+    {
+      address: 'bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs',
+      amount: '0.00001092'
+    },
+    {
+      address: 'bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs',
+      amount: '0.00001092'
+    },
+    {
+      address: 'bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs',
+      amount: '0.00001092'
+    },
+    {
+      address: 'bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs',
+      amount: '0.00001092'
+    },
+    {
+      address: 'bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs',
+      amount: '0.00001092'
+    },
+    {
+      address: 'bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs',
+      amount: '0.00001092'
+    },
+    {
+      address: 'bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs',
+      amount: '0.00001092'
+    },
+    {
+      address: 'bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs',
+      amount: '0.00001092'
+    },
+    {
+      address: 'bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs',
+      amount: '0.00001092'
+    },
+    {
+      address: 'bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs',
+      amount: '0.00001092'
+    },
+    {
+      address: 'bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs',
+      amount: '0.00001092'
+    }
+  ]
+}
+bitcoin-cli createrawtransaction '[{"txid": "ad477fead70ca09759093dbf6adf98f530312d16d6e47cc5d4c47567e8eb2606", "vout": 202}, {"txid": "f6a2f680601dbdd38dac669413875df0b34440e0cf5abd92d3ad2dd53b553bae", "vout": 241}, {"txid": "3ab1d99e02bb2be17a91c60bbfe7ae3c9344d84e0a2550e10309014d17f86cd0", "vout": 1475}, {"txid": "fb4c77741312242fb3317782ddb0bfde6233989795e1d1f208ba57eb74134047", "vout": 123}, {"txid": "3ab1d99e02bb2be17a91c60bbfe7ae3c9344d84e0a2550e10309014d17f86cd0", "vout": 628}, {"txid": "31c65d7e876950936da237dcd6a883c5c544ae61368bfe24a23f19f3637abc62", "vout": 1245}, {"txid": "3ab1d99e02bb2be17a91c60bbfe7ae3c9344d84e0a2550e10309014d17f86cd0", "vout": 350}, {"txid": "f6a2f680601dbdd38dac669413875df0b34440e0cf5abd92d3ad2dd53b553bae", "vout": 1037}, {"txid": "35ad1d89cacc23914dfbae29d19c2c06992bde5a8bb70423091a0710043362f5", "vout": 274}, {"txid": "31c65d7e876950936da237dcd6a883c5c544ae61368bfe24a23f19f3637abc62", "vout": 694}, {"txid": "bbb025ec467639472c0ce52d86f0cb839b23cc22593c80c064e849b4a5bd2d0e", "vout": 15}, {"txid": "d10a850443990eec359e8cbf92fe30c60f2689e4a37c7f602ea85d7b159c3577", "vout": 179}, {"txid": "f6a2f680601dbdd38dac669413875df0b34440e0cf5abd92d3ad2dd53b553bae", "vout": 559}, {"txid": "bbb025ec467639472c0ce52d86f0cb839b23cc22593c80c064e849b4a5bd2d0e", "vout": 101}, {"txid": "fb4c77741312242fb3317782ddb0bfde6233989795e1d1f208ba57eb74134047", "vout": 135}, {"txid": "3ab1d99e02bb2be17a91c60bbfe7ae3c9344d84e0a2550e10309014d17f86cd0", "vout": 1145}, {"txid": "366ffbc92710ca2b9bacb061c4c64e6a286128703e81d1da79eea8a6af66f5a7", "vout": 0}]' '[{"bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs": 0.00001092}, {"bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs": 0.00001092}, {"bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs": 0.00001092}, {"bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs": 0.00001092}, {"bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs": 0.00000586}, {"bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs": 0.00001092}, {"bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs": 0.00001092}, {"bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs": 0.00001092}, {"bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs": 0.00001092}, {"bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs": 0.00001092}, {"bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs": 0.00001092}, {"bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs": 0.00001092}, {"bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs": 0.00001092}, {"bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs": 0.00001092}, {"bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs": 0.00001092}, {"bc1psahumaqz28l28jwsj8ca2ja56j50gsteqqk406s0mq0e99w93ehssgmdgs": 0.00001092}, {"bc1p6xhkdpm9tpsvkz06kynxj46vdq8d2ky08h3m40kf4497lkkmllash37z88": 0.00982810}]' 0 true
+01000000110626ebe86775c4d4c57ce4d6162d3130f598df6abf3d095997a00cd7ea7f47adca00000000fdffffffae3b553bd52dadd392bd5acfe04044b3f05d87139466ac8dd3bd1d6080f6a2f6f100000000fdffffffd06cf8174d010903e150250a4ed844933caee7bf0bc6917ae12bbb029ed9b13ac305000000fdffffff47401374eb57ba08f2d1e19597983362debfb0dd827731b32f24121374774cfb7b00000000fdffffffd06cf8174d010903e150250a4ed844933caee7bf0bc6917ae12bbb029ed9b13a7402000000fdffffff62bc7a63f3193fa224fe8b3661ae44c5c583a8d6dc37a26d935069877e5dc631dd04000000fdffffffd06cf8174d010903e150250a4ed844933caee7bf0bc6917ae12bbb029ed9b13a5e01000000fdffffffae3b553bd52dadd392bd5acfe04044b3f05d87139466ac8dd3bd1d6080f6a2f60d04000000fdfffffff562330410071a092304b78b5ade2b99062c9cd129aefb4d9123ccca891dad351201000000fdffffff62bc7a63f3193fa224fe8b3661ae44c5c583a8d6dc37a26d935069877e5dc631b602000000fdffffff0e2dbda5b449e864c0803c5922cc239b83cbf0862de50c2c47397646ec25b0bb0f00000000fdffffff77359c157b5da82e607f7ca3e489260fc630fe92bf8c9e35ec0e994304850ad1b300000000fdffffffae3b553bd52dadd392bd5acfe04044b3f05d87139466ac8dd3bd1d6080f6a2f62f02000000fdffffff0e2dbda5b449e864c0803c5922cc239b83cbf0862de50c2c47397646ec25b0bb6500000000fdffffff47401374eb57ba08f2d1e19597983362debfb0dd827731b32f24121374774cfb8700000000fdffffffd06cf8174d010903e150250a4ed844933caee7bf0bc6917ae12bbb029ed9b13a7904000000fdffffffa7f566afa6a8ee79dad1813e702861286a4ec6c461b0ac9b2bca1027c9fb6f360000000000fdffffff114404000000000000225120876fcdf40251fea3c9d091f1d54bb4d4a8f44179002d57ea0fd81f9295c58e6f4404000000000000225120876fcdf40251fea3c9d091f1d54bb4d4a8f44179002d57ea0fd81f9295c58e6f4404000000000000225120876fcdf40251fea3c9d091f1d54bb4d4a8f44179002d57ea0fd81f9295c58e6f4404000000000000225120876fcdf40251fea3c9d091f1d54bb4d4a8f44179002d57ea0fd81f9295c58e6f4a02000000000000225120876fcdf40251fea3c9d091f1d54bb4d4a8f44179002d57ea0fd81f9295c58e6f4404000000000000225120876fcdf40251fea3c9d091f1d54bb4d4a8f44179002d57ea0fd81f9295c58e6f4404000000000000225120876fcdf40251fea3c9d091f1d54bb4d4a8f44179002d57ea0fd81f9295c58e6f4404000000000000225120876fcdf40251fea3c9d091f1d54bb4d4a8f44179002d57ea0fd81f9295c58e6f4404000000000000225120876fcdf40251fea3c9d091f1d54bb4d4a8f44179002d57ea0fd81f9295c58e6f4404000000000000225120876fcdf40251fea3c9d091f1d54bb4d4a8f44179002d57ea0fd81f9295c58e6f4404000000000000225120876fcdf40251fea3c9d091f1d54bb4d4a8f44179002d57ea0fd81f9295c58e6f4404000000000000225120876fcdf40251fea3c9d091f1d54bb4d4a8f44179002d57ea0fd81f9295c58e6f4404000000000000225120876fcdf40251fea3c9d091f1d54bb4d4a8f44179002d57ea0fd81f9295c58e6f4404000000000000225120876fcdf40251fea3c9d091f1d54bb4d4a8f44179002d57ea0fd81f9295c58e6f4404000000000000225120876fcdf40251fea3c9d091f1d54bb4d4a8f44179002d57ea0fd81f9295c58e6f4404000000000000225120876fcdf40251fea3c9d091f1d54bb4d4a8f44179002d57ea0fd81f9295c58e6f19ff0e0000000000225120d1af6687655860cb09fab12669574c680ed5588f3de3babec9ad4befdadbfffb00000000
+cHNidP8BAP2eBQIAAAARBibr6Gd1xNTFfOTWFi0xMPWY32q/PQlZl6AM1+p/R63KAAAAAP3///+uO1U71S2t05K9Ws/gQESz8F2HE5RmrI3TvR1ggPai9vEAAAAA/f///9Bs+BdNAQkD4VAlCk7YRJM8rue/C8aReuEruwKe2bE6wwUAAAD9////R0ATdOtXugjy0eGVl5gzYt6/sN2CdzGzLyQSE3R3TPt7AAAAAP3////QbPgXTQEJA+FQJQpO2ESTPK7nvwvGkXrhK7sCntmxOnQCAAAA/f///2K8emPzGT+iJP6LNmGuRMXFg6jW3DeibZNQaYd+XcYx3QQAAAD9////0Gz4F00BCQPhUCUKTthEkzyu578LxpF64Su7Ap7ZsTpeAQAAAP3///+uO1U71S2t05K9Ws/gQESz8F2HE5RmrI3TvR1ggPai9g0EAAAA/f////ViMwQQBxoJIwS3i1reK5kGLJzRKa77TZEjzMqJHa01EgEAAAD9////Yrx6Y/MZP6Ik/os2Ya5ExcWDqNbcN6Jtk1Bph35dxjG2AgAAAP3///8OLb2ltEnoZMCAPFkizCObg8vwhi3lDCxHOXZG7CWwuw8AAAAA/f///3c1nBV7XaguYH98o+SJJg/GMP6Sv4yeNewOmUMEhQrRswAAAAD9////rjtVO9UtrdOSvVrP4EBEs/BdhxOUZqyN070dYID2ovYvAgAAAP3///8OLb2ltEnoZMCAPFkizCObg8vwhi3lDCxHOXZG7CWwu2UAAAAA/f///0dAE3TrV7oI8tHhlZeYM2Lev7Ddgncxsy8kEhN0d0z7hwAAAAD9////0Gz4F00BCQPhUCUKTthEkzyu578LxpF64Su7Ap7ZsTp5BAAAAP3///+n9WavpqjuedrRgT5wKGEoak7GxGGwrJsryhAnyftvNgAAAAAA/f///xFEBAAAAAAAACJRIIdvzfQCUf6jydCR8dVLtNSo9EF5AC1X6g/YH5KVxY5vRAQAAAAAAAAiUSCHb830AlH+o8nQkfHVS7TUqPRBeQAtV+oP2B+SlcWOb0QEAAAAAAAAIlEgh2/N9AJR/qPJ0JHx1Uu01Kj0QXkALVfqD9gfkpXFjm9EBAAAAAAAACJRIIdvzfQCUf6jydCR8dVLtNSo9EF5AC1X6g/YH5KVxY5vSgIAAAAAAAAiUSCHb830AlH+o8nQkfHVS7TUqPRBeQAtV+oP2B+SlcWOb0QEAAAAAAAAIlEgh2/N9AJR/qPJ0JHx1Uu01Kj0QXkALVfqD9gfkpXFjm9EBAAAAAAAACJRIIdvzfQCUf6jydCR8dVLtNSo9EF5AC1X6g/YH5KVxY5vRAQAAAAAAAAiUSCHb830AlH+o8nQkfHVS7TUqPRBeQAtV+oP2B+SlcWOb0QEAAAAAAAAIlEgh2/N9AJR/qPJ0JHx1Uu01Kj0QXkALVfqD9gfkpXFjm9EBAAAAAAAACJRIIdvzfQCUf6jydCR8dVLtNSo9EF5AC1X6g/YH5KVxY5vRAQAAAAAAAAiUSCHb830AlH+o8nQkfHVS7TUqPRBeQAtV+oP2B+SlcWOb0QEAAAAAAAAIlEgh2/N9AJR/qPJ0JHx1Uu01Kj0QXkALVfqD9gfkpXFjm9EBAAAAAAAACJRIIdvzfQCUf6jydCR8dVLtNSo9EF5AC1X6g/YH5KVxY5vRAQAAAAAAAAiUSCHb830AlH+o8nQkfHVS7TUqPRBeQAtV+oP2B+SlcWOb0QEAAAAAAAAIlEgh2/N9AJR/qPJ0JHx1Uu01Kj0QXkALVfqD9gfkpXFjm9EBAAAAAAAACJRIIdvzfQCUf6jydCR8dVLtNSo9EF5AC1X6g/YH5KVxY5vGv8OAAAAAAAiUSDRr2aHZVhgywn6sSZpV0xoDtVYjz3jur7JrUvv2tv/+wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
